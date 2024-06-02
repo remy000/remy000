@@ -2,7 +2,7 @@
 
 A passionate Software Enginner
 
-- 🌱 I’m currently learning **React Js, Java, Spring Boot, Node.js,Python, Next js,Docker**
+- 🌱 I’m currently learning **React Js, Java, Spring Boot, Node.js,Python, Next.js,Docker**
 - 💬 Ask me about Java
 - 📫 How to reach me: dukundaneremy2001@gmail.com
 
@@ -39,12 +39,10 @@ A passionate Software Enginner
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tifan9&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remy000&layout=compact&theme=radical)
 ## GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=remy000&theme=radical)
-## GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=remy000&theme=radical)
 
 
