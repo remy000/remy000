@@ -1,6 +1,9 @@
 # Hi 👋, I'm Dukundane Remy
 
 A passionate Software Enginner
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=remy000&color=green)
 
 - 🌱 I’m currently learning **React Js, Java, Spring Boot, Node.js,Python, Next.js,Docker**
 - 💬 Ask me about Java
