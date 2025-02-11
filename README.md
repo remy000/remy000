@@ -2,7 +2,7 @@
 
 A passionate, Data Scientist, ML Engineer and Software Engineer
 
-- 🌱 I’m currently learning **DeepLearning,TensorFlow, PyTorch, Java, Spring Boot,Python, Next.js,Docker,Kubernetes**
+- 🌱 I’m currently learning **Deep Learning,TensorFlow, PyTorch, Java, Spring Boot,Python,Docker,Kubernetes**
 - 💬 Ask me about Data, Deep Learning, ML and Java
 - 📫 How to reach me: dukundaneremy2001@gmail.com
 
