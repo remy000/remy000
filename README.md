@@ -11,7 +11,7 @@ A passionate, Data Scientist, ML Engineer and Software Engineer
 
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Remy--Dukundane-blue)]([https://www.linkedin.com/in/dukundane-remy-083157240/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Remy--Dukundane-blue)](https://www.linkedin.com/in/dukundane-remy-083157240/)
 
 ## Languages and Tools:
 
