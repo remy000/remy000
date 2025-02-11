@@ -1,13 +1,13 @@
 # Hi 👋, I'm Dukundane Remy
 
-A passionate Software Engineer
+A passionate, Data Scientist, ML Engineer and Software Engineer
 
 - 🌱 I’m currently learning **React Js, Java, Spring Boot, Node.js,Python, Next.js,Docker**
 - 💬 Ask me about Java
 - 📫 How to reach me: dukundaneremy2001@gmail.com
 
  ## About Me
-  I am a software engineer with a passion for designing and developing high-performance software solutions
+  I'm a passionate Data Scientist and Software Engineer with a focus on designing and developing high-performance software solutions. I thrive on solving complex problems with data-driven approaches and leveraging Machine Learning and AI techniques to build innovative, scalable solutions.
 
 ## Connect with me:
 
@@ -31,6 +31,8 @@ A passionate Software Engineer
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=6DB33F)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=6DB33F)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=6DB33F)
 
 ## GitHub Stats
 
