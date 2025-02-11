@@ -2,8 +2,8 @@
 
 A passionate, Data Scientist, ML Engineer and Software Engineer
 
-- 🌱 I’m currently learning **React Js, Java, Spring Boot, Node.js,Python, Next.js,Docker**
-- 💬 Ask me about Java
+- 🌱 I’m currently learning **DeepLearning,TensorFlow, PyTorch, Java, Spring Boot,Python, Next.js,Docker,Kubernetes**
+- 💬 Ask me about Data, Deep Learning, ML and Java
 - 📫 How to reach me: dukundaneremy2001@gmail.com
 
  ## About Me
